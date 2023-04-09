@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋Hi there. My name is Dako Mihailov. 👋
 <img src="https://media.licdn.com/dms/image/D5616AQGS8fazgm96eQ/profile-displaybackgroundimage-shrink_350_1400/0/1681055061125?e=1686787200&v=beta&t=rKEh5TqyrgCz1tUMH1V3b5wlv0xfG48oET9KlH2PdSQ" />
 <!--
 **DakoMihailov/DakoMihailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
