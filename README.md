@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGS8fazgm96eQ/profile-displaybackgroundimage-shrink_350_1400/0/1681055061125?e=1686787200&v=beta&t=rKEh5TqyrgCz1tUMH1V3b5wlv0xfG48oET9KlH2PdSQ" alt="my banner"></a>
-</p>
+
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/dako-mihailov-948616270" target="_blank" rel="noreferrer">Dako Mihailov</a> 👋
