@@ -46,6 +46,9 @@ I love the entire process of developing creative websites and products. I love t
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📝 Latest Blog Posts
+https://floowstudio.com/en/
+</br>
+https://anthobexitsolutions.com/
 
 ## 📈 GitHub Stats 
 
