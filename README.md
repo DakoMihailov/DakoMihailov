@@ -50,5 +50,4 @@ https://floowstudio.com/en/
 </br>
 https://anthobexitsolutions.com/
 
-## 📈 GitHub Stats 
 
