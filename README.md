@@ -18,12 +18,6 @@ I love the entire process of developing creative websites and products. I love t
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-
-## 🌱 I'm currently learning
-
-
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
