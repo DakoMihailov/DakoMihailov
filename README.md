@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hello 👋 This is Taylor Hargraves.</h1>
+<h1 align="center">Hello 👋 This is Dako Mihailov.</h1>
 
 ###
 
